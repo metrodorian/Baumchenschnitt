@@ -1,8 +1,8 @@
 # 6 Weißdorn (Crataegus)
 
 <figure class="hero">
-  <img src="images/weissdorn_bluete.jpg" alt="Weißdornblüten im Mai">
-  <figcaption>Die Mai-Blüte des Weißdorns — sie erscheint am mehrjährigen Holz, deshalb kommt der Formschnitt erst danach.</figcaption>
+  <img src="images/weissdorn_eigen_blaetterdach.jpg" alt="Sitzplatz unter hochgeschulten Weißdornbäumen, die ein Blätterdach bilden">
+  <figcaption>Genau das ist das Ziel: hochgeschulte Weißdorne mit freigestelltem Stamm und geschlossenem Laubdach bilden einen schattigen Sitzplatz — ein lebendes Dach in Augenhöhe.</figcaption>
 </figure>
 
 ## Steckbrief
@@ -12,6 +12,11 @@
 - Schnittverträglichkeit: **hervorragend.** Weißdorn ist ein klassisches Hecken- und Formschnittgehölz und verträgt auch starken Rückschnitt.
 
 ## Der ideale Formschnitt-Baum
+
+<figure class="img-right">
+  <img src="images/weissdorn_eigen_bluete.jpg" alt="Hochgeschulte Weißdorne in voller Mai-Blüte">
+  <figcaption>Dieselben Bäume im Mai: Die Blüte sitzt am mehrjährigen Holz, der freigestellte Stammbereich darunter bleibt offen.</figcaption>
+</figure>
 
 Der Weißdorn ist von unseren vier Arten der beste Kandidat für echte japanische Formarbeit. Was japanische Gärtner mit *Ilex crenata* (Japan-Stechpalme) als Wolkenbaum machen, gelingt mit Weißdorn genauso: dichtes, kleinblättriges Laub, das auf Schnitt mit feiner Verzweigung reagiert und geschnittene Formen sauber hält.
 
