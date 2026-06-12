@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title }}</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <style>
+      .page-header .project-name a {
+        color: inherit;
+        text-decoration: none;
+      }
+      .page-header .project-name a:hover {
+        text-decoration: underline;
+        opacity: 0.85;
+      }
+      .main-content img {
+        max-width: 100%;
+        border-radius: 0.4rem;
+      }
+      .main-content img + em,
+      .main-content p > img + br + em {
+        font-size: 0.88rem;
+        color: #57606a;
+      }
+      .print-buttons {
+        margin-top: 3rem;
+        padding-top: 1.5rem;
+        border-top: 1px solid #dce6f0;
+      }
+      .btn-row {
+        display: flex;
+        gap: 1rem;
+        flex-wrap: wrap;
+      }
+      .btn-row + .btn-row { margin-top: 0.8rem; }
+      .print-btn {
+        display: inline-block;
+        padding: 0.6rem 1.3rem;
+        background: #159957;
+        color: #fff;
+        border-radius: 0.3rem;
+        font-size: 0.95rem;
+        text-decoration: none;
+        cursor: pointer;
+        border: none;
+      }
+      .print-btn:hover { background: #0f7a3e; color: #fff; text-decoration: none; }
+      .print-btn.secondary { background: #555; }
+      .print-btn.secondary:hover { background: #333; }
+      .print-btn.next { margin-left: auto; background: #1f6feb; font-weight: 700; }
+      .print-btn.next:hover { background: #1a5fd0; }
+      @media (max-width: 480px) {
+        .print-btn.next { margin-left: 0; }
+      }
+
+      /* Kapitelauswahl (aufklappbar, ohne JavaScript) */
+      .chapter-picker { position: relative; display: inline-block; }
+      .chapter-picker summary.print-btn {
+        list-style: none;
+        background: #8250df;
+        user-select: none;
+      }
+      .chapter-picker summary.print-btn:hover { background: #6639ba; }
+      .chapter-picker summary::-webkit-details-marker { display: none; }
+      .chapter-picker[open] summary.print-btn { background: #6639ba; }
+      .chapter-menu {
+        position: absolute;
+        bottom: calc(100% + 0.4rem);
+        left: 0;
+        min-width: 19rem;
+        max-height: 60vh;
+        overflow-y: auto;
+        background: #fff;
+        border: 1px solid #dce6f0;
+        border-radius: 0.4rem;
+        box-shadow: 0 6px 24px rgba(0,0,0,0.15);
+        padding: 0.4rem 0;
+        z-index: 10;
+      }
+      .chapter-menu a {
+        display: block;
+        padding: 0.45rem 1rem;
+        color: #1b1f23;
+        text-decoration: none;
+        font-size: 0.92rem;
+        line-height: 1.3;
+      }
+      .chapter-menu a:hover { background: #f3f8f4; color: #159957; }
+      .chapter-menu a.current {
+        font-weight: 700;
+        color: #159957;
+        background: #f3f8f4;
+      }
+      @media (max-width: 480px) {
+        .chapter-menu { min-width: 0; width: 80vw; }
+      }
+
+      @media print {
+        @page { size: A4; margin: 2cm 2.2cm; }
+
+        .page-header, .print-buttons, .site-footer { display: none !important; }
+        body { font-size: 11pt; line-height: 1.55; }
+
+        /* Überschrift nie allein am Seitenende */
+        h1, h2, h3, h4 {
+          break-after: avoid;
+          page-break-after: avoid;
+        }
+        /* Ersten Absatz/Liste nach Überschrift mit ihr zusammenhalten */
+        h2 + p, h3 + p, h4 + p,
+        h2 + ul, h3 + ul, h4 + ul,
+        h2 + ol, h3 + ol, h4 + ol,
+        h2 + blockquote, h3 + blockquote {
+          break-before: avoid;
+          page-break-before: avoid;
+        }
+        /* Kästen, Tabellen, Code-Blöcke, Bilder nicht zerreissen */
+        blockquote, pre, table, figure, img {
+          break-inside: avoid;
+          page-break-inside: avoid;
+        }
+        /* Horizontale Trennlinien: neuen Abschnitt nicht am Seitenende beginnen */
+        hr + h2, hr + h3 {
+          break-before: avoid;
+          page-break-before: avoid;
+        }
+        p { orphans: 3; widows: 3; }
+        a[href]::after { content: none; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="page-header" role="banner">
+        <h1 class="project-name">
+          <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        </h1>
+        <h2 class="project-tagline">{{ site.description }}</h2>
+      </header>
+
+      <main id="content" class="main-content" role="main">
+        {{ content }}
+
+        {%- assign chapters = "01_grundprinzipien,02_japanische_schnittkunst,03_wildkirsche,04_hasel,05_ahorn,06_weissdorn,07_jahreskalender" | split: "," -%}
+        {%- assign titles = "Grundprinzipien,Japanische Schnittkunst (Niwaki),Wildkirsche,Hasel,Ahorn,Weißdorn,Jahreskalender" | split: "," -%}
+        {%- assign current = page.name | remove: ".md" -%}
+        {%- assign curpos = -1 -%}
+        {%- for c in chapters -%}{%- if c == current -%}{%- assign curpos = forloop.index0 -%}{%- endif -%}{%- endfor -%}
+        {%- assign nextpos = curpos | plus: 1 -%}
+
+        <div class="print-buttons">
+          <div class="btn-row">
+            <button class="print-btn" onclick="window.print()">🖨 Seite ausdrucken</button>
+            <a class="print-btn secondary" href="{{ '/pdfs/Baeumchenschnitt_komplett.pdf' | relative_url }}" target="_blank">📄 Alles ausdrucken (PDF)</a>
+          </div>
+          <div class="btn-row">
+            <details class="chapter-picker">
+              <summary class="print-btn picker">📖 Kapitel wählen</summary>
+              <nav class="chapter-menu">
+                <a href="{{ '/' | relative_url }}"{% if curpos == -1 %} class="current"{% endif %}>Startseite &amp; Inhalt</a>
+                {%- for c in chapters -%}
+                  <a href="{{ c | append: '.html' | relative_url }}"{% if forloop.index0 == curpos %} class="current"{% endif %}>{{ forloop.index }}. {{ titles[forloop.index0] }}</a>
+                {%- endfor -%}
+              </nav>
+            </details>
+            {%- if nextpos < chapters.size -%}
+              {%- assign nextslug = chapters[nextpos] -%}
+              {%- assign nexttitle = titles[nextpos] -%}
+              <a class="print-btn next" href="{{ nextslug | append: '.html' | relative_url }}">{% if curpos == -1 %}Zum ersten Kapitel{% else %}Nächstes Kapitel{% endif %}: {{ nexttitle }} →</a>
+            {%- endif -%}
+          </div>
+        </div>
+
+        <footer class="site-footer">
+          <span class="site-footer-credits">
+            <a href="https://github.com/metrodorian/Baumchenschnitt">Auf GitHub ansehen</a>
+          </span>
+        </footer>
+      </main>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+      // Kapitelmenü schließen, wenn man daneben klickt
+      document.addEventListener('click', function (e) {
+        var picker = document.querySelector('.chapter-picker[open]');
+        if (picker && !picker.contains(e.target)) picker.removeAttribute('open');
+      });
+    </script>
+  </body>
+</html>
