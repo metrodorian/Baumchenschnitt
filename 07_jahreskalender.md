@@ -1,4 +1,4 @@
-# 07 — Jahreskalender: Wann kommt wer dran?
+# 7 Jahreskalender: Wann kommt wer dran?
 
 ## Übersicht
 

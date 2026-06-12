@@ -1,4 +1,4 @@
-# 01 — Grundprinzipien: Wie du einen Baum klein hältst
+# 1 Grundprinzipien: Wie du einen Baum klein hältst
 
 ## Wie ein Baum auf Schnitt reagiert
 

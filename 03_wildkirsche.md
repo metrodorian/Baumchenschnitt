@@ -1,4 +1,4 @@
-# 03 — Wildkirsche (Prunus avium)
+# 3 Wildkirsche (Prunus avium)
 
 <figure class="img-right">
   <img src="images/wildkirsche_baum.jpg" alt="Wildkirsche in voller Blüte">

@@ -15,13 +15,13 @@ Im Garten stehen Wildkirschen, Haseln, Ahorn und ein Weißdorn. Alle vier wollen
 
 | Datei | Inhalt |
 |---|---|
-| [01 — Grundprinzipien](01_grundprinzipien.md) | Wie Bäume auf Schnitt reagieren, Werkzeug, Schnitttechnik, die 4-Meter-Strategie |
-| [02 — Japanische Schnittkunst (Niwaki)](02_japanische_schnittkunst.md) | Niwaki-Philosophie, Etagenform, Kopfschnitt-Tradition, konkrete Techniken |
-| [03 — Wildkirsche](03_wildkirsche.md) | Der heikelste Kandidat: Schnittzeitpunkt im Sommer, kleine Wunden |
-| [04 — Hasel](04_hasel.md) | Der gutmütigste: Auslichten, auf den Stock setzen, Schirmform |
-| [05 — Ahorn](05_ahorn.md) | Momiji-Vorbild aus Japan, Saftdruck beachten, feiner Schnitt |
-| [06 — Weißdorn](06_weissdorn.md) | Extrem schnittverträglich, Dachform, Blüte erhalten |
-| [07 — Jahreskalender](07_jahreskalender.md) | Wann welcher Baum drankommt — Übersicht fürs ganze Jahr |
+| [1 Grundprinzipien](01_grundprinzipien.md) | Wie Bäume auf Schnitt reagieren, Werkzeug, Schnitttechnik, die 4-Meter-Strategie |
+| [2 Japanische Schnittkunst (Niwaki)](02_japanische_schnittkunst.md) | Niwaki-Philosophie, Etagenform, Kopfschnitt-Tradition, konkrete Techniken |
+| [3 Wildkirsche](03_wildkirsche.md) | Der heikelste Kandidat: Schnittzeitpunkt im Sommer, kleine Wunden |
+| [4 Hasel](04_hasel.md) | Der gutmütigste: Auslichten, auf den Stock setzen, Schirmform |
+| [5 Ahorn](05_ahorn.md) | Momiji-Vorbild aus Japan, Saftdruck beachten, feiner Schnitt |
+| [6 Weißdorn](06_weissdorn.md) | Extrem schnittverträglich, Dachform, Blüte erhalten |
+| [7 Jahreskalender](07_jahreskalender.md) | Wann welcher Baum drankommt — Übersicht fürs ganze Jahr |
 
 ## Die Kurzfassung (für Eilige)
 
@@ -30,12 +30,6 @@ Im Garten stehen Wildkirschen, Haseln, Ahorn und ein Weißdorn. Alle vier wollen
 3. **Das Blätterdach entsteht durch Etagen.** Wenige, gut platzierte Leitäste waagerecht ziehen, alles Steile und nach innen Wachsende entfernen — das ist der Kern von Niwaki.
 4. **Sommerschnitt bremst, Winterschnitt treibt.** Wer Bäume klein halten will, schneidet vor allem im Sommer (Juni–August). Die Kirsche **nur** dann.
 5. **Rechtlicher Rahmen:** Radikale Schnitte (auf den Stock setzen, starker Rückschnitt) sind in Deutschland nur **1. Oktober – 28. Februar** erlaubt (§ 39 BNatSchG). Form- und Pflegeschnitte sind ganzjährig zulässig — aber vorher immer auf Nester prüfen.
-
-## Status
-
-- [x] Ratgeber-Grundgerüst
-- [x] Bilder (Wikimedia Commons, frei lizenziert)
-- [ ] Fotos der eigenen Bäume ergänzen (Vorher/Nachher)
 
 ## Bildnachweis
 

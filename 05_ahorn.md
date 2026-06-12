@@ -1,4 +1,4 @@
-# 05 — Ahorn (Acer)
+# 5 Ahorn (Acer)
 
 <figure class="img-right">
   <img src="images/ahorn_portland.jpg" alt="Berühmter Fächerahorn im Japanischen Garten von Portland">

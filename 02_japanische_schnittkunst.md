@@ -1,4 +1,4 @@
-# 02 — Japanische Schnittkunst: Niwaki (庭木)
+# 2 Japanische Schnittkunst: Niwaki (庭木)
 
 ## Was ist Niwaki?
 

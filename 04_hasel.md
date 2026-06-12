@@ -1,4 +1,4 @@
-# 04 — Hasel (Corylus avellana)
+# 4 Hasel (Corylus avellana)
 
 <figure class="img-right">
   <img src="images/hasel_habitus.jpg" alt="Ausgewachsene Hasel in natürlicher Form">

@@ -1,4 +1,4 @@
-# 06 — Weißdorn (Crataegus)
+# 6 Weißdorn (Crataegus)
 
 <figure class="img-right">
   <img src="images/weissdorn_bluete.jpg" alt="Weißdornblüten im Mai">
