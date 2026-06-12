@@ -9,10 +9,10 @@
 | Mär | — | nur leicht (Brutzeit beachten) | ❌ Saftdruck | ❌ Brutzeit prüfen |
 | Apr | — (Blüte 🌸) | — | ❌ Saftdruck | — (Knospen) |
 | Mai | — | — | ❌ Saftdruck | — (Blüte 🌼) |
-| **Jun** | (✂️ leicht möglich) | ✅ **Dach formen** | ✅ **Hauptschnitt: Pinzieren, Formen** | ✅ **Hauptformschnitt nach Blüte** |
-| **Jul** | ✅ **Hauptschnitt** (nach Fruchtreife) | ✂️ Korrekturen | ✂️ Korrekturen | ✂️ Korrekturen |
-| **Aug** | ✅ Hauptschnitt-Fenster bis Ende Aug | ✂️ Korrekturen | ✅ zweiter Durchgang | ✅ zweiter Durchgang |
-| Sep | (✂️ Ausklang, kleine Schnitte) | — | ✂️ Strukturschnitt möglich | — |
+| **Jun** | (✂️ leicht möglich) | ✅ **Dach formen** | ✅ **Pinzieren** (nur weiches Grün) | ✅ **Hauptformschnitt nach Blüte** |
+| **Jul** | ✅ **Hauptschnitt** (nach Ernte) | ✂️ Korrekturen | ⚠️ nur pinzieren (Holz blutet noch) | ✂️ Korrekturen |
+| **Aug** | ✅ Hauptschnitt-Fenster | ✂️ Korrekturen | ✅ **Holzschnitt: Struktur, Höhe** | ✅ zweiter Durchgang |
+| Sep | ✅ Hauptschnitt-Fenster | — | ✅ **Holzschnitt** (Saftdruck minimal) | — |
 | Okt | ❌ | ✅ Wintersaison beginnt | ✂️ Struktur (nach Laubfall) | ✂️ Struktur möglich |
 | Nov | ❌ | ✅ | ✂️ Struktur | ✂️ Struktur |
 | Dez | ❌ | ✅ | ✂️ Struktur (letzte Chance) | ✂️ Struktur |
@@ -24,23 +24,24 @@
 In der Praxis genügen **zwei Wochenenden pro Jahr**:
 
 ### 🌞 Termin 1: Mitte/Ende Juni — „Der Niwaki-Tag"
-Der wichtigste Termin des Jahres (nach der Weißdornblüte, vor der Kirschernte):
+Der erste Pflegetermin (nach der Weißdornblüte):
 1. **Weißdorn:** Hauptformschnitt (Dach/Wolken).
-2. **Ahorn:** Neutriebe pinzieren, Etagen formen, auslichten.
+2. **Ahorn:** weiche Neutriebe pinzieren. Holzige Strukturschnitte aber **noch nicht** — der Ahorn blutet im Frühsommer; die heben wir uns für den Spätsommer auf.
 3. **Hasel:** Dach formen, Übersteher ableiten.
 4. **Kirsche:** nur anschauen und planen; leichte Korrekturen erlaubt.
 5. Alle: Wasserschosser ausreißen, Bindungen/Formierungen kontrollieren.
 
 ⚠️ Vorher bei allen Bäumen auf besetzte Nester prüfen — besonders im Weißdorn.
 
-### 🍒 Termin 2: Ende Juli/August — „Der Kirschen-Tag"
-1. **Kirsche:** Hauptschnitt (Wasserschosser, Ableiten, Höhe) — jetzt heilt sie am besten.
-2. **Ahorn & Weißdorn:** kurzer zweiter Durchgang für die Nachtriebe.
-3. Höhenkontrolle bei allen: nichts bleibt über der 4-m-Linie stehen.
+### 🍒 Termin 2: August/September — „Der Schnitt-Tag"
+1. **Kirsche:** Hauptschnitt (Wasserschosser, Ableiten, Höhe) nach der Ernte bei trockenem Wetter — jetzt heilt sie am besten.
+2. **Ahorn:** jetzt die holzigen Schnitte — Struktur, Höhe, Auslichten. Der Saftdruck ist am niedrigsten, im belaubten Zustand blutet kaum etwas.
+3. **Weißdorn:** kurzer zweiter Durchgang für die Nachtriebe.
+4. Höhenkontrolle bei allen: nichts bleibt über der 4-m-Linie stehen.
 
 ### ❄️ Optional: ein Wintertermin (Nov–Feb) — „Der Strukturtag"
 - **Hasel:** Bodentriebe raus, ggf. ältesten Stamm ersetzen (Rotationsverjüngung).
-- **Ahorn (nur bis Dez!) & Weißdorn:** größere Strukturkorrekturen, falls nötig.
+- **Ahorn (nur bis Dez, nach Laubfall!) & Weißdorn:** größere Strukturkorrekturen, falls nötig.
 - **Kirsche: Finger weg.**
 
 ## Rechtliches & Rücksicht (Deutschland)

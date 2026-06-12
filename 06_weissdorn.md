@@ -1,7 +1,7 @@
 # 06 — Weißdorn (Crataegus)
 
 ![Weißdornblüten im Mai](images/weissdorn_bluete.jpg)
-*Die Mai-Blüte des Weißdorns — sie erscheint am vorjährigen Holz, deshalb kommt der Formschnitt erst danach.*
+*Die Mai-Blüte des Weißdorns — sie erscheint am mehrjährigen Holz, deshalb kommt der Formschnitt erst danach.*
 
 ## Steckbrief
 
@@ -24,8 +24,8 @@ Der Weißdorn ist von unseren vier Arten der beste Kandidat für echte japanisch
 *Im Herbst trägt der Weißdorn leuchtend rote Beeren — Festmahl für Vögel, Schmuck für den Garten.*
 
 - **Dornen:** Lange, harte Dornen — **dicke Handschuhe und Schutzbrille** sind beim Weißdorn keine Empfehlung, sondern Pflicht. Schnittgut nicht auf Wegen liegen lassen, die man barfuß betritt.
-- **Blüte am vorjährigen Holz:** Die weiße Mai-Blüte und die roten Beeren für die Vögel erscheinen an Trieben des Vorjahres. Wer im Sommer **nach der Blüte** schneidet, opfert wenig. Wer im Winter stark schneidet, verliert an den geschnittenen Partien die kommende Blüte. → Haupt-Formschnitt **im Juni, direkt nach der Blüte**.
-- **Feuerbrand:** Weißdorn ist Wirtspflanze für Feuerbrand (*Erwinia amylovora*). Symptome: plötzlich welkende, **wie verbrannt schwarzbraune Triebspitzen, oft hakenförmig gekrümmt**. Dann: befallene Partien großzügig entfernen (30–50 cm ins gesunde Holz), Werkzeug desinfizieren, Schnittgut in den Restmüll — nicht auf den Kompost. Feuerbrand ist je nach Bundesland meldepflichtig.
+- **Blüte am mehrjährigen Holz:** Die weiße Mai-Blüte und die roten Beeren für die Vögel erscheinen am älteren, mehrjährigen Holz — nicht am frischen Austrieb. Deshalb blüht der Weißdorn trotz Schnitt weiter. Wer im Sommer **nach der Blüte** schneidet, opfert wenig. Wer im Winter stark in altes Holz schneidet, verliert an den geschnittenen Partien die kommende Blüte. → Haupt-Formschnitt **im Juni, direkt nach der Blüte**.
+- **Feuerbrand:** Weißdorn ist Wirtspflanze für Feuerbrand (*Erwinia amylovora*) und überträgt ihn auf Apfel und Birne — pflanze ihn deshalb **nicht direkt neben Obstgehölze**. Symptome: plötzlich welkende, **wie verbrannt schwarzbraune Triebspitzen, oft hakenförmig gekrümmt**. Dann: befallene Partien großzügig entfernen (30–50 cm ins gesunde Holz), Werkzeug desinfizieren, Schnittgut in den Restmüll — nicht auf den Kompost. Feuerbrand ist je nach Bundesland meldepflichtig.
 - **Vogelschutz:** Weißdorn ist ein Lieblings-Nistplatz, dornengeschützt! Prüfe vor jedem Schnitt zwischen März und September gründlich auf besetzte Nester — im Zweifel verschiebst du den Schnitt.
 
 ## 4-Meter-Plan für den Weißdorn

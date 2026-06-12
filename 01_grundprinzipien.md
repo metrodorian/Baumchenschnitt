@@ -48,6 +48,8 @@ So bleibt der Baum bei 4 m, sieht aber aus, als wäre er natürlich so gewachsen
 
 **Scharf ist Pflicht.** Quetschende, stumpfe Schnitte sind Eintrittspforten für Pilze — bei Kirsche und Ahorn der Hauptgrund für Misserfolge.
 
+**Sicherheit in der Höhe.** Schon 3–4 m sind genug für ernste Stürze. Die Leiter auf festen, ebenen Grund stellen, nie auf den obersten Sprossen stehen, nie mit der Stichsäge über Schulterhöhe hantieren und nicht allein bei größeren Eingriffen arbeiten. Was du nur mit Motorsäge oder freihändig kletternd erreichst, gehört in die Hände einer Fachfirma — kein Baum ist einen Krankenhausbesuch wert.
+
 ## Die 4-Meter-Strategie in drei Phasen
 
 ### Phase 1 — Aufbau (Jahr 1–2): Gerüst festlegen
@@ -65,6 +67,17 @@ Jährlicher Sommer-Durchgang, pro Baum meist 20–40 Minuten:
 2. **Nach innen wachsende, kreuzende, reibende Triebe** raus.
 3. Höhe kontrollieren: Übersteher **ableiten**.
 4. Etagen freistellen: Zwischen den Astetagen Luft lassen, damit das Blätterdach als „Wolken" oder „Schirm" lesbar bleibt (→ [Kapitel 02](02_japanische_schnittkunst.md)).
+
+## Sonderfall: Der Baum ist schon zu hoch
+
+Die drei Phasen oben beschreiben den Aufbau eines jungen Baums. Häufiger steht der Baum aber schon und ist längst über 4 m. Dann gilt: **nicht in einem Jahr herunterzwingen**, sondern über 2–3 Jahre absenken.
+
+1. **Pro Jahr höchstens ein Viertel bis ein Drittel der Höhe wegnehmen.** Ein 7-m-Baum wird also nicht in einem Sommer auf 4 m gestutzt, sondern erst auf ~5,5 m, im Folgejahr auf ~4,5 m, dann auf das Zielmaß. Wer mehr auf einmal nimmt, erntet einen Wald aus Wasserschossern.
+2. **Auch hier wird abgeleitet, nicht gekappt.** Den zu hohen Mitteltrieb und die Übersteher jeweils auf einen tiefer sitzenden, möglichst waagerechten Seitenast zurücknehmen (siehe „Ableiten" oben). Der Seitenast übernimmt und bildet den neuen, flacheren Wipfel.
+3. **Zum richtigen Zeitpunkt** der jeweiligen Art (→ Kapitel [03](03_wildkirsche.md)–[06](06_weissdorn.md)) — gerade beim Absenken fallen größere Wunden an, also bei Kirsche und Ahorn unbedingt im Sommer bzw. Spätsommer.
+4. **Wundgröße im Blick behalten:** Lässt sich das Ziel nur über einen Schnitt > 5–8 cm erreichen, lieber ein Jahr mehr einplanen und in zwei kleineren Schritten ableiten.
+
+Nach dem Absenken bist du in Phase 3 (Erhalt) — ab dann hält der jährliche Sommerdurchgang die Höhe.
 
 ## Was du NICHT tun solltest
 

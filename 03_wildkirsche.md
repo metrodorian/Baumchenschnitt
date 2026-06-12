@@ -16,7 +16,7 @@ Kirschen (wie alle *Prunus*) haben zwei Schwachstellen:
 1. **Gummifluss:** Auf Wunden, besonders in der Saftruhe, reagiert die Kirsche mit Harz- und Gummiaustritt — geschwächtes Gewebe, Eintrittspforte für Krankheiten.
 2. **Pilzinfektionen** (Bleiglanz, Monilia, Holzfäulepilze): Die Sporen fliegen vor allem in der feuchten, kühlen Jahreszeit; Winterwunden bleiben monatelang offen.
 
-**Deshalb: Schnitt nur Juni bis August** — klassisch direkt nach der Fruchtreife im Juli. Dann heilt die Wunde noch in derselben Saison, und der bremsende Sommerschnitt hilft gleich beim Kleinhalten. Das japanische Sprichwort „Wer Kirschen schneidet, ist ein Narr" zielt genau auf falsch gesetzte Winterschnitte. Sommerschnitt mit kleinen Wunden ist auch in Japan akzeptierte Praxis.
+**Deshalb: Schnitt nur im Sommer, am besten Juli bis September** — direkt nach der Ernte, bei trockenem, warmem Wetter. Dann heilt die Wunde noch in derselben Saison am schnellsten, und der bremsende Sommerschnitt hilft gleich beim Kleinhalten. Das japanische Sprichwort „Wer Kirschen schneidet, ist ein Narr" zielt genau auf falsch gesetzte Winterschnitte. Sommerschnitt mit kleinen Wunden ist auch in Japan akzeptierte Praxis.
 
 ## Weitere Kirschen-Regeln
 
@@ -32,7 +32,7 @@ Kirschen (wie alle *Prunus*) haben zwei Schwachstellen:
 2. Den Mitteltrieb, sobald er die Zielhöhe erreicht, im Sommer auf den obersten flachen Seitenast **ableiten**. Nie kappen — auf Kappung reagiert die Kirsche extrem mit Wasserschossern.
 3. Junge Leitäste mit Schnur und Gewichten Richtung Waagerechte erziehen (Niwaki-Technik, → [Kapitel 02](02_japanische_schnittkunst.md)). Flache Äste wachsen langsamer und blühen besser — doppelter Gewinn.
 
-### Jährliche Erhaltung (jeden Juli/August, ~30 min)
+### Jährliche Erhaltung (Juli–September nach der Ernte, ~30 min)
 1. **Wasserschosser** (die steilen, langen Sommertriebe auf den Astoberseiten): alle ausreißen oder am Ansatz schneiden. Nach ein paar Jahren Routine sind das nur noch wenige.
 2. Übersteher über der 4-m-Linie auf tiefere, flache Seitentriebe **ableiten**.
 3. Nach innen wachsende und sich kreuzende Triebe raus.
