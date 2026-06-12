@@ -180,7 +180,7 @@
               <nav class="chapter-menu">
                 <a href="{{ '/' | relative_url }}"{% if curpos == -1 %} class="current"{% endif %}>Startseite &amp; Inhalt</a>
                 {%- for c in chapters -%}
-                  <a href="{{ c | append: '.html' | relative_url }}"{% if forloop.index0 == curpos %} class="current"{% endif %}>{{ forloop.index }}. {{ titles[forloop.index0] }}</a>
+                  <a href="{{ c | append: '.html' | relative_url }}"{% if forloop.index0 == curpos %} class="current"{% endif %}>{% unless c == "08_quellen" %}{{ forloop.index }}. {% endunless %}{{ titles[forloop.index0] }}</a>
                 {%- endfor -%}
               </nav>
             </details>

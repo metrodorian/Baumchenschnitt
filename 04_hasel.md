@@ -1,6 +1,6 @@
 # 4 Hasel (Corylus avellana)
 
-<figure class="img-right">
+<figure class="hero">
   <img src="images/hasel_habitus.jpg" alt="Ausgewachsene Hasel in natürlicher Form">
   <figcaption>Die Hasel in Naturform: ein dichter Großstrauch — mit Stammauswahl wird daraus ein eleganter Schirm.</figcaption>
 </figure>

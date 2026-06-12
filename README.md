@@ -22,7 +22,7 @@ Im Garten stehen Wildkirschen, Haseln, Ahorn und ein Weißdorn. Alle vier wollen
 | [5 Ahorn](05_ahorn.md) | Momiji-Vorbild aus Japan, Saftdruck beachten, feiner Schnitt |
 | [6 Weißdorn](06_weissdorn.md) | Extrem schnittverträglich, Dachform, Blüte erhalten |
 | [7 Jahreskalender](07_jahreskalender.md) | Wann welcher Baum drankommt — Übersicht fürs ganze Jahr |
-| [8 Quellen](08_quellen.md) | Fachliche Belege, Niwaki-Literatur und Bildnachweis |
+| [Quellen](08_quellen.md) | Fachliche Belege, Niwaki-Literatur und Bildnachweis |
 
 ## Die Kurzfassung (für Eilige)
 

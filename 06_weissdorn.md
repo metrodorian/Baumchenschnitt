@@ -1,6 +1,6 @@
 # 6 Weißdorn (Crataegus)
 
-<figure class="img-right">
+<figure class="hero">
   <img src="images/weissdorn_bluete.jpg" alt="Weißdornblüten im Mai">
   <figcaption>Die Mai-Blüte des Weißdorns — sie erscheint am mehrjährigen Holz, deshalb kommt der Formschnitt erst danach.</figcaption>
 </figure>

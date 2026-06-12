@@ -1,4 +1,4 @@
-# 8 Quellen
+# Quellen
 
 ## Fachliche Grundlagen und Belege
 

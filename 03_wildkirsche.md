@@ -1,6 +1,6 @@
 # 3 Wildkirsche (Prunus avium)
 
-<figure class="img-right">
+<figure class="hero">
   <img src="images/wildkirsche_baum.jpg" alt="Wildkirsche in voller Blüte">
   <figcaption>Wildkirsche in voller Blüte — klein gehalten wird das Blütendach zum Schirm in Augenhöhe.</figcaption>
 </figure>
