@@ -1,23 +1,23 @@
-# 01 — Grundprinzipien: Wie man einen Baum klein hält
+# 01 — Grundprinzipien: Wie du einen Baum klein hältst
 
 ## Wie ein Baum auf Schnitt reagiert
 
-Bevor man schneidet, muss man zwei Mechanismen verstehen:
+Bevor du schneidest, musst du zwei Mechanismen verstehen:
 
 ### 1. Apikaldominanz
-Die oberste Knospe eines Triebs (die "Spitzenknospe") produziert Hormone (Auxine), die die darunterliegenden Knospen unterdrücken. Schneidet man die Spitze ab, fällt die Unterdrückung weg — **mehrere** Knospen darunter treiben aus. Das ist der Grund, warum gekappte Bäume "besenartig" mit vielen steilen Trieben reagieren.
+Die oberste Knospe eines Triebs (die „Spitzenknospe") produziert Hormone (Auxine), die die darunterliegenden Knospen unterdrücken. Schneidest du die Spitze ab, fällt die Unterdrückung weg — **mehrere** Knospen darunter treiben aus. Deshalb reagieren gekappte Bäume „besenartig" mit vielen steilen Trieben.
 
 **Konsequenz:** Wer einfach oben kappt, bekommt mehr und schnelleres Wachstum, nicht weniger. Die Lösung heißt **Ableiten** (siehe unten).
 
 ### 2. Winterschnitt treibt, Sommerschnitt bremst
-- **Winter (Saftruhe):** Der Baum hat seine gesamte Energie in Wurzeln und Stamm gespeichert. Schneidet man jetzt, verteilt sich diese Energie im Frühjahr auf weniger Knospen → **starker Austrieb**. Gut für Aufbau und Verjüngung, schlecht fürs Kleinhalten.
-- **Sommer (Juni–August):** Die Energie steckt in den Blättern. Schneidet man jetzt, nimmt man dem Baum Energie weg → **gebremstes Wachstum**, kleinere Reaktion, schnellere Wundheilung.
+- **Winter (Saftruhe):** Der Baum hat seine gesamte Energie in Wurzeln und Stamm gespeichert. Schneidest du jetzt, verteilt sich diese Energie im Frühjahr auf weniger Knospen → **starker Austrieb**. Gut für Aufbau und Verjüngung, schlecht fürs Kleinhalten.
+- **Sommer (Juni–August):** Die Energie steckt in den Blättern. Schneidest du jetzt, nimmst du dem Baum Energie weg → **gebremstes Wachstum**, kleinere Reaktion, schnellere Wundheilung.
 
-**Konsequenz:** Die 4-Meter-Pflege findet hauptsächlich im Sommer statt. Genau so machen es auch die japanischen Gärtner, die ihre Niwaki ein- bis zweimal jährlich im Sommer "lesen" und nachschneiden.
+**Konsequenz:** Die 4-Meter-Pflege findet hauptsächlich im Sommer statt. Genau so machen es auch die japanischen Gärtner: Sie „lesen" ihre Niwaki ein- bis zweimal jährlich im Sommer und schneiden nach.
 
-## Die Königstechnik: Ableiten (Schnitt auf Astring vermeiden, wo es geht)
+## Die Königstechnik: Ableiten
 
-**Ableiten** heißt: Einen zu lang/zu hoch gewordenen Ast nicht irgendwo kappen, sondern bis zu einem **schwächeren Seitenast** zurückschneiden, der in die gewünschte Richtung (meist nach außen/waagerecht) zeigt. Dieser Seitenast übernimmt die Führung.
+**Ableiten** heißt: Einen zu lang oder zu hoch gewordenen Ast nicht irgendwo kappen, sondern bis zu einem **schwächeren Seitenast** zurückschneiden, der in die gewünschte Richtung zeigt — meist nach außen oder waagerecht. Dieser Seitenast übernimmt die Führung.
 
 Regeln fürs Ableiten:
 - Der übernehmende Seitenast sollte **mindestens ⅓ so dick** sein wie der entfernte Teil (sonst reagiert der Baum mit Notaustrieben).
@@ -28,8 +28,11 @@ So bleibt der Baum bei 4 m, sieht aber aus, als wäre er natürlich so gewachsen
 
 ## Schnittführung im Detail
 
-- **Ganze Äste entfernen:** Auf **Astring** schneiden (die kleine Wulst am Astansatz), nicht bündig am Stamm und keinen Stummel stehen lassen. Der Astring enthält das Gewebe, das die Wunde verschließt.
-- **Dicke Äste (> 5 cm):** Mit **Entlastungsschnitt** arbeiten (erst von unten ansägen, dann von oben weiter außen durchsägen, dann den Stummel sauber am Astring nachschneiden), sonst reißt die Rinde ein.
+![Sauber überwallende Schnittwunde am Astring](images/schnitt_astring.jpg)
+*So sieht Erfolg aus: Eine am Astring gesetzte Wunde überwallt ringförmig von außen nach innen.*
+
+- **Ganze Äste entfernen:** Auf **Astring** schneiden — das ist die kleine Wulst am Astansatz. Nicht bündig am Stamm schneiden und keinen Stummel stehen lassen. Der Astring enthält das Gewebe, das die Wunde verschließt (siehe Foto).
+- **Dicke Äste (> 5 cm):** Mit **Entlastungsschnitt** arbeiten: erst von unten ansägen, dann von oben weiter außen durchsägen, zuletzt den Stummel sauber am Astring nachschneiden. Sonst reißt die Rinde ein.
 - **Faustregel Wundgröße:** Wunden über 5–8 cm Durchmesser heilen bei Kirsche und Ahorn schlecht. Lieber jedes Jahr viele kleine Schnitte als alle fünf Jahre einen großen — auch das ist die japanische Philosophie.
 - **Wundverschlussmittel:** Nach heutigem Stand meist unnötig bis kontraproduktiv. Sauberer Schnitt zur richtigen Zeit ist der beste Wundschutz.
 
@@ -50,22 +53,22 @@ So bleibt der Baum bei 4 m, sieht aber aus, als wäre er natürlich so gewachsen
 ### Phase 1 — Aufbau (Jahr 1–2): Gerüst festlegen
 - Stammhöhe wählen: z. B. 1,8–2,2 m astfreier Stamm, darüber die Krone.
 - **3–5 Leitäste** auswählen, die möglichst waagerecht und gleichmäßig verteilt stehen. Alles andere am Stamm entfernen.
-- Konkurrenztriebe zur Spitze ("Zwiesel") konsequent rausnehmen oder die Spitze gleich auf einen waagerechten Ast ableiten → der Baum bekommt von Anfang an eine flache, schirmartige Statur.
+- Konkurrenztriebe zur Spitze („Zwiesel") konsequent rausnehmen — oder die Spitze gleich auf einen waagerechten Ast ableiten. So bekommt der Baum von Anfang an eine flache, schirmartige Statur.
 
 ### Phase 2 — Deckel drauf (sobald ~4 m erreicht)
-- Den Mitteltrieb auf einen kräftigen, flach stehenden Seitenast **ableiten** — das ist der "Deckel". Nicht kappen!
-- Ab jetzt darf kein Trieb mehr dauerhaft über die 4-m-Linie: Was drüber wächst, wird jeden Sommer auf einen tieferen Seitentrieb abgeleitet.
+- Den Mitteltrieb auf einen kräftigen, flach stehenden Seitenast **ableiten** — das ist der „Deckel". Nicht kappen!
+- Ab jetzt darf kein Trieb mehr dauerhaft über die 4-m-Linie: Was drüber wächst, leitest du jeden Sommer auf einen tieferen Seitentrieb ab.
 
 ### Phase 3 — Erhalt (jedes Jahr, dauerhaft)
 Jährlicher Sommer-Durchgang, pro Baum meist 20–40 Minuten:
-1. **Steiltriebe und Wasserschosser** komplett entfernen (am Ansatz ausreißen, solange grün, oder sauber abschneiden).
+1. **Steiltriebe und Wasserschosser** komplett entfernen — am Ansatz ausreißen, solange grün, oder sauber abschneiden.
 2. **Nach innen wachsende, kreuzende, reibende Triebe** raus.
 3. Höhe kontrollieren: Übersteher **ableiten**.
-4. Etagen freistellen: Zwischen den Astetagen Luft lassen, damit das Blätterdach als "Wolken" oder "Schirm" lesbar bleibt (→ [Kapitel 02](02_japanische_schnittkunst.md)).
+4. Etagen freistellen: Zwischen den Astetagen Luft lassen, damit das Blätterdach als „Wolken" oder „Schirm" lesbar bleibt (→ [Kapitel 02](02_japanische_schnittkunst.md)).
 
-## Was man NICHT tun sollte
+## Was du NICHT tun solltest
 
 - ❌ **Kappen** (alle Äste auf gleicher Höhe absägen): erzeugt Besenwuchs, Fäulnis, Dauerbaustelle.
 - ❌ **Alles auf einmal:** Nie mehr als ~20–25 % der Blattmasse in einem Jahr entfernen (Ausnahme: Hasel verträgt mehr).
-- ❌ **Im Hochsommer bei > 30 °C oder in der Mittagssonne** große Eingriffe (Sonnenbrand auf frisch freigestellter Rinde).
+- ❌ **Bei über 30 °C oder in der Mittagssonne** große Eingriffe — frisch freigestellte Rinde bekommt Sonnenbrand.
 - ❌ **Kirsche im Winter schneiden** (→ [Kapitel 03](03_wildkirsche.md)).

@@ -23,7 +23,7 @@
 
 In der Praxis genügen **zwei Wochenenden pro Jahr**:
 
-### 🌞 Termin 1: Mitte/Ende Juni — "Der Niwaki-Tag"
+### 🌞 Termin 1: Mitte/Ende Juni — „Der Niwaki-Tag"
 Der wichtigste Termin des Jahres (nach der Weißdornblüte, vor der Kirschernte):
 1. **Weißdorn:** Hauptformschnitt (Dach/Wolken).
 2. **Ahorn:** Neutriebe pinzieren, Etagen formen, auslichten.
@@ -33,12 +33,12 @@ Der wichtigste Termin des Jahres (nach der Weißdornblüte, vor der Kirschernte)
 
 ⚠️ Vorher bei allen Bäumen auf besetzte Nester prüfen — besonders im Weißdorn.
 
-### 🍒 Termin 2: Ende Juli/August — "Der Kirschen-Tag"
+### 🍒 Termin 2: Ende Juli/August — „Der Kirschen-Tag"
 1. **Kirsche:** Hauptschnitt (Wasserschosser, Ableiten, Höhe) — jetzt heilt sie am besten.
 2. **Ahorn & Weißdorn:** kurzer zweiter Durchgang für die Nachtriebe.
 3. Höhenkontrolle bei allen: nichts bleibt über der 4-m-Linie stehen.
 
-### ❄️ Optional: ein Wintertermin (Nov–Feb) — "Der Strukturtag"
+### ❄️ Optional: ein Wintertermin (Nov–Feb) — „Der Strukturtag"
 - **Hasel:** Bodentriebe raus, ggf. ältesten Stamm ersetzen (Rotationsverjüngung).
 - **Ahorn (nur bis Dez!) & Weißdorn:** größere Strukturkorrekturen, falls nötig.
 - **Kirsche: Finger weg.**
