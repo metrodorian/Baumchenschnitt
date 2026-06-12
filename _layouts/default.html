@@ -162,8 +162,8 @@
       <main id="content" class="main-content" role="main">
         {{ content }}
 
-        {%- assign chapters = "01_grundprinzipien,02_japanische_schnittkunst,03_wildkirsche,04_hasel,05_ahorn,06_weissdorn,07_jahreskalender" | split: "," -%}
-        {%- assign titles = "Grundprinzipien,Japanische Schnittkunst (Niwaki),Wildkirsche,Hasel,Ahorn,Weißdorn,Jahreskalender" | split: "," -%}
+        {%- assign chapters = "01_grundprinzipien,02_japanische_schnittkunst,03_wildkirsche,04_hasel,05_ahorn,06_weissdorn,07_jahreskalender,08_quellen" | split: "," -%}
+        {%- assign titles = "Grundprinzipien,Japanische Schnittkunst (Niwaki),Wildkirsche,Hasel,Ahorn,Weißdorn,Jahreskalender,Quellen" | split: "," -%}
         {%- assign current = page.name | remove: ".md" -%}
         {%- assign curpos = -1 -%}
         {%- for c in chapters -%}{%- if c == current -%}{%- assign curpos = forloop.index0 -%}{%- endif -%}{%- endfor -%}

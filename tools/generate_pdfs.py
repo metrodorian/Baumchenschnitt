@@ -37,6 +37,7 @@ CHAPTERS = [
     "05_ahorn",
     "06_weissdorn",
     "07_jahreskalender",
+    "08_quellen",
 ]
 
 # ── gemeinsames Stylesheet (Bildschirm + Druck identisch) ─────────────────────

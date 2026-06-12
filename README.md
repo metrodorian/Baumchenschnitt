@@ -22,6 +22,7 @@ Im Garten stehen Wildkirschen, Haseln, Ahorn und ein Weißdorn. Alle vier wollen
 | [5 Ahorn](05_ahorn.md) | Momiji-Vorbild aus Japan, Saftdruck beachten, feiner Schnitt |
 | [6 Weißdorn](06_weissdorn.md) | Extrem schnittverträglich, Dachform, Blüte erhalten |
 | [7 Jahreskalender](07_jahreskalender.md) | Wann welcher Baum drankommt — Übersicht fürs ganze Jahr |
+| [8 Quellen](08_quellen.md) | Fachliche Belege, Niwaki-Literatur und Bildnachweis |
 
 ## Die Kurzfassung (für Eilige)
 
@@ -31,23 +32,3 @@ Im Garten stehen Wildkirschen, Haseln, Ahorn und ein Weißdorn. Alle vier wollen
 4. **Sommerschnitt bremst, Winterschnitt treibt.** Wer Bäume klein halten will, schneidet vor allem im Sommer (Juni–August). Die Kirsche **nur** dann.
 5. **Rechtlicher Rahmen:** Radikale Schnitte (auf den Stock setzen, starker Rückschnitt) sind in Deutschland nur **1. Oktober – 28. Februar** erlaubt (§ 39 BNatSchG). Form- und Pflegeschnitte sind ganzjährig zulässig — aber vorher immer auf Nester prüfen.
 
-## Bildnachweis
-
-Alle Bilder stammen von [Wikimedia Commons](https://commons.wikimedia.org) und stehen unter freien Lizenzen:
-
-| Bild | Autor·in | Lizenz | Quelle |
-|---|---|---|---|
-| niwaki_dragon.jpg | Parc Oriental de Maulévrier | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:If_dragon_Parc_Oriental.jpg) |
-| kiefer_niwaki_tokyo.jpg | Jetoney | gemeinfrei | [Commons](https://commons.wikimedia.org/wiki/File:Japanese_Black_Pine,_National_Garden,_Tokyo.jpg) |
-| karikomi_okayama.jpg | Paolo | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Karikomi_Okayama_jardin.jpg) |
-| wolkenschnitt_eibe.jpg | pam fray | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cloud_pruning_of_yew_hedges,_Doddington_Place_Gardens_-_geograph.org.uk_-_6855489.jpg) |
-| daisugi_kibune.jpg | Indiana jo | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:New_breed_Dai_Sugi_02.jpg) |
-| schnitt_astring.jpg | Mokkie | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Branch_collar.jpg) |
-| wildkirsche_baum.jpg | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Prunus_avium_-_Hohenwettersbach_01.jpg) |
-| wildkirsche_bluete.jpg | Thomas Schilling | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:P1020626_Prunus_avium_blossoms.jpg) |
-| hasel_habitus.jpg | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corylus_avellana_0001.JPG) |
-| hasel_stockausschlag.jpg | David Hawgood | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Coppiced_hazel_in_Piddington_Wood_-_geograph.org.uk_-_182545.jpg) |
-| wasserschosser_hasel.jpg | Rasbak | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corylus_avellana_water_sprouts_(01).jpg) |
-| ahorn_portland.jpg | Jeremy Reding | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_maple.jpg) |
-| weissdorn_bluete.jpg | Ввласенко | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Blooming_hawthorn_(Crataegus_monogyna).jpg) |
-| weissdorn_baum.jpg | Trish Steel | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hawthorn_(Crataegus_monogyna),_Bishopstone_-_geograph.org.uk_-_976441.jpg) |
