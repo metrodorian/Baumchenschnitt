@@ -2,8 +2,10 @@
 
 **Ratgeber: Bäume dauerhaft auf ~4 m Höhe halten und ein schönes Blätterdach formen — inspiriert von der japanischen Schnittkunst (Niwaki).**
 
-![Über Jahrzehnte geformte Kiefern im Ritsurin-Garten, Japan — Niwaki in Vollendung](images/niwaki_ritsurin.jpg)
-*Niwaki in Vollendung: geformte Kiefern im Ritsurin-Garten, Takamatsu (Japan)*
+<figure class="hero">
+  <img src="images/niwaki_dragon.jpg" alt="Wolkengeschnittene Bäume mit roter Brücke im Parc Oriental de Maulévrier">
+  <figcaption>So sieht das Ziel aus: über Jahre wolkengeschnittene Bäume — sichtbare Stämme, klar getrennte Laub­etagen, ein luftiges Dach (Parc Oriental de Maulévrier, Frankreich).</figcaption>
+</figure>
 
 ## Worum es geht
 
@@ -41,7 +43,7 @@ Alle Bilder stammen von [Wikimedia Commons](https://commons.wikimedia.org) und s
 
 | Bild | Autor·in | Lizenz | Quelle |
 |---|---|---|---|
-| niwaki_ritsurin.jpg | 663highland | CC BY 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Ritsurin_park05s3200.jpg) |
+| niwaki_dragon.jpg | Parc Oriental de Maulévrier | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:If_dragon_Parc_Oriental.jpg) |
 | kiefer_niwaki_tokyo.jpg | Jetoney | gemeinfrei | [Commons](https://commons.wikimedia.org/wiki/File:Japanese_Black_Pine,_National_Garden,_Tokyo.jpg) |
 | karikomi_okayama.jpg | Paolo | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Karikomi_Okayama_jardin.jpg) |
 | wolkenschnitt_eibe.jpg | pam fray | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cloud_pruning_of_yew_hedges,_Doddington_Place_Gardens_-_geograph.org.uk_-_6855489.jpg) |

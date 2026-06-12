@@ -20,10 +20,28 @@
         max-width: 100%;
         border-radius: 0.4rem;
       }
-      .main-content img + em,
-      .main-content p > img + br + em {
-        font-size: 0.88rem;
+      /* In den Fließtext eingebundene Bilder (umflossen, abwechselnd) */
+      .main-content figure { margin: 0; }
+      .main-content figure.img-right,
+      .main-content figure.img-left {
+        max-width: 45%;
+        margin: 0.4rem 0 1rem;
+      }
+      .main-content figure.img-right { float: right; margin-left: 1.5rem; }
+      .main-content figure.img-left  { float: left;  margin-right: 1.5rem; }
+      .main-content figure img { width: 100%; display: block; }
+      .main-content figure.hero { float: none; max-width: 100%; margin: 0.5rem 0 1.6rem; }
+      .main-content figcaption {
+        font-size: 0.85rem;
         color: #57606a;
+        line-height: 1.35;
+        margin-top: 0.35rem;
+      }
+      /* Neuer Abschnitt beginnt immer unterhalb umflossener Bilder */
+      .main-content h2, .main-content h3 { clear: both; }
+      @media (max-width: 600px) {
+        .main-content figure.img-right,
+        .main-content figure.img-left { float: none; max-width: 100%; margin: 1.1rem 0; }
       }
       .print-buttons {
         margin-top: 3rem;

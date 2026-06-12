@@ -1,7 +1,9 @@
 # 06 — Weißdorn (Crataegus)
 
-![Weißdornblüten im Mai](images/weissdorn_bluete.jpg)
-*Die Mai-Blüte des Weißdorns — sie erscheint am mehrjährigen Holz, deshalb kommt der Formschnitt erst danach.*
+<figure class="img-right">
+  <img src="images/weissdorn_bluete.jpg" alt="Weißdornblüten im Mai">
+  <figcaption>Die Mai-Blüte des Weißdorns — sie erscheint am mehrjährigen Holz, deshalb kommt der Formschnitt erst danach.</figcaption>
+</figure>
 
 ## Steckbrief
 
@@ -20,8 +22,10 @@ Der Weißdorn ist von unseren vier Arten der beste Kandidat für echte japanisch
 
 ## Besonderheiten
 
-![Weißdorn mit roten Beeren im Herbst](images/weissdorn_baum.jpg)
-*Im Herbst trägt der Weißdorn leuchtend rote Beeren — Festmahl für Vögel, Schmuck für den Garten.*
+<figure class="img-left">
+  <img src="images/weissdorn_baum.jpg" alt="Weißdorn mit roten Beeren im Herbst">
+  <figcaption>Im Herbst trägt der Weißdorn leuchtend rote Beeren — Festmahl für Vögel, Schmuck für den Garten.</figcaption>
+</figure>
 
 - **Dornen:** Lange, harte Dornen — **dicke Handschuhe und Schutzbrille** sind beim Weißdorn keine Empfehlung, sondern Pflicht. Schnittgut nicht auf Wegen liegen lassen, die man barfuß betritt.
 - **Blüte am mehrjährigen Holz:** Die weiße Mai-Blüte und die roten Beeren für die Vögel erscheinen am älteren, mehrjährigen Holz — nicht am frischen Austrieb. Deshalb blüht der Weißdorn trotz Schnitt weiter. Wer im Sommer **nach der Blüte** schneidet, opfert wenig. Wer im Winter stark in altes Holz schneidet, verliert an den geschnittenen Partien die kommende Blüte. → Haupt-Formschnitt **im Juni, direkt nach der Blüte**.

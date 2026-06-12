@@ -1,7 +1,9 @@
 # 05 — Ahorn (Acer)
 
-![Berühmter Fächerahorn im Japanischen Garten von Portland](images/ahorn_portland.jpg)
-*Der berühmte Fächerahorn im Japanischen Garten von Portland: sichtbarer Stamm, fließende Etagen, lichtes Dach — das Vorbild für unseren Ahorn.*
+<figure class="img-right">
+  <img src="images/ahorn_portland.jpg" alt="Berühmter Fächerahorn im Japanischen Garten von Portland">
+  <figcaption>Der berühmte Fächerahorn im Japanischen Garten von Portland: sichtbarer Stamm, fließende Etagen, lichtes Dach — das Vorbild für unseren Ahorn.</figcaption>
+</figure>
 
 ## Steckbrief
 

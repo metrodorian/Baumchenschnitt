@@ -4,8 +4,10 @@
 
 **Niwaki** heißt wörtlich einfach „Gartenbaum" — gemeint ist aber ein Baum, den Gärtner über Jahre durch Schnitt und Formung zu einer idealisierten, oft jahrhundertealt wirkenden Gestalt erzogen haben. Niwaki ist gewissermaßen **Bonsai in Gartengröße**: dieselbe Ästhetik, aber am ausgepflanzten Baum.
 
-![Geformte Schwarzkiefern mit klar getrennten Astetagen, Tokio](images/kiefer_niwaki_tokyo.jpg)
-*Schwarzkiefern in Tokio: klar getrennte, waagerechte Astetagen — und keine wird je höher als gewollt.*
+<figure class="img-right">
+  <img src="images/kiefer_niwaki_tokyo.jpg" alt="Geformte Schwarzkiefern mit klar getrennten Astetagen, Tokio">
+  <figcaption>Schwarzkiefern in Tokio: klar getrennte, waagerechte Astetagen — und keine wird je höher als gewollt.</figcaption>
+</figure>
 
 Die für unser 4-Meter-Ziel entscheidende Erkenntnis: **In Japan hält man Bäume, die 25 m hoch werden könnten, ganz selbstverständlich dauerhaft auf 3–5 m** — und sie sehen dabei schöner aus als ihre wilden Brüder. Das ist keine Verstümmelung, sondern eine eigene Kunstform mit klaren Regeln.
 
@@ -21,11 +23,15 @@ Stamm und Hauptäste sollen **sichtbar** sein. Das Laub sitzt nicht als geschlos
 - **Tamamono / Tama-zukuri (玉物, Kugel-/Wolkenform):** Die Laubpolster an den Astenden werden zu weichen, kissenartigen „Wolken" geschnitten. Im Westen heißt das oft „Cloud Pruning".
 - Für ein **Blätterdach** kombinierst du beides: wenige waagerechte Etagen, deren oberste sich zu einem flachen Schirm schließt.
 
-![Karikomi-Formschnitt im Korakuen-Garten, Okayama](images/karikomi_okayama.jpg)
-*Karikomi im Korakuen-Garten (Okayama): Sträucher als weiche, fließende Wolkenlandschaft*
+<figure class="img-left">
+  <img src="images/karikomi_okayama.jpg" alt="Karikomi-Formschnitt im Korakuen-Garten, Okayama">
+  <figcaption>Karikomi im Korakuen-Garten (Okayama): Sträucher als weiche, fließende Wolkenlandschaft.</figcaption>
+</figure>
 
-![Wolkenschnitt an alten Eibenhecken, England](images/wolkenschnitt_eibe.jpg)
-*Die Technik funktioniert auch in Europa: wolkengeschnittene Eiben in Doddington Place, England*
+<figure class="img-right">
+  <img src="images/wolkenschnitt_eibe.jpg" alt="Wolkenschnitt an alten Eibenhecken, England">
+  <figcaption>Die Technik funktioniert auch in Europa: wolkengeschnittene Eiben in Doddington Place, England.</figcaption>
+</figure>
 
 ### 3. Asymmetrie und ungerade Zahlen
 Japanische Gestaltung meidet Symmetrie. 3 oder 5 Leitäste, unterschiedlich lang, die Krone leicht einseitig — das wirkt natürlich gewachsen. Perfekt gleichmäßige Bäume wirken tot.
@@ -55,8 +61,10 @@ Feine Laubbäume (besonders Ahorn!) zupfen japanische Gärtner möglichst **per 
 
 ### Daisugi & Kopfschnitt-Tradition
 
-![Daisugi-Zedern: knorrige Sockel mit kerzengeraden Neutrieben](images/daisugi_kibune.jpg)
-*Daisugi bei Kyōto: Auf jahrhundertealten Sockeln wachsen kerzengerade Stämme nach — immer wieder.*
+<figure class="img-left">
+  <img src="images/daisugi_kibune.jpg" alt="Daisugi-Zedern: knorrige Sockel mit kerzengeraden Neutrieben">
+  <figcaption>Daisugi bei Kyōto: Auf jahrhundertealten Sockeln wachsen kerzengerade Stämme nach — immer wieder.</figcaption>
+</figure>
 
 Japan kennt auch radikale Formen wie **Daisugi**: Zedern werden wie Kopfweiden bewirtschaftet, auf dem „Sockel" wachsen kerzengerade Stämme nach. Für uns ist das der Beleg: **Regelmäßiger Rückschnitt auf denselben Punkt ist über Jahrzehnte baumverträglich**, wenn man ihn konsequent jährlich macht. Daraus leitet sich die Pflege des Hasels und des Weißdorns ab.
 

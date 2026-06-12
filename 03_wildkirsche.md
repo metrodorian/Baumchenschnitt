@@ -1,7 +1,9 @@
 # 03 — Wildkirsche (Prunus avium)
 
-![Wildkirsche in voller Blüte](images/wildkirsche_baum.jpg)
-*Wildkirsche in voller Blüte — klein gehalten wird das Blütendach zum Schirm in Augenhöhe.*
+<figure class="img-right">
+  <img src="images/wildkirsche_baum.jpg" alt="Wildkirsche in voller Blüte">
+  <figcaption>Wildkirsche in voller Blüte — klein gehalten wird das Blütendach zum Schirm in Augenhöhe.</figcaption>
+</figure>
 
 ## Steckbrief
 
@@ -40,8 +42,10 @@ Kirschen (wie alle *Prunus*) haben zwei Schwachstellen:
 
 ### Was die Kirsche besonders schön macht
 
-![Kirschblüten im Detail](images/wildkirsche_bluete.jpg)
-*Im April verwandelt sich der Schirm in ein Blütendach — die Sakura-Ästhetik im eigenen Garten.*
+<figure class="img-left">
+  <img src="images/wildkirsche_bluete.jpg" alt="Kirschblüten im Detail">
+  <figcaption>Im April verwandelt sich der Schirm in ein Blütendach — die Sakura-Ästhetik im eigenen Garten.</figcaption>
+</figure>
 
 Waagerecht gezogene Etagen, ein freier Stamm — die glänzende Ringelborke ist eine Zierde! — und im April ein lockeres Blütendach: So wird die klein gehaltene Wildkirsche zum Prunkstück des Gartens, ganz nah an der japanischen *Sakura*-Ästhetik.
 

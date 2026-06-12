@@ -64,14 +64,23 @@ ul, ol { margin: .5rem 0 .8rem; padding-left: 1.5rem; }
 li { margin: .25rem 0; }
 hr { border: none; border-top: 1px solid #d7dde2; margin: 1.8rem 0; }
 
-/* Bilder mit Bildunterschrift (![..](..) gefolgt von *kursiv*) */
+/* Bilder */
 img {
   max-width: 100%;
   border-radius: .35rem;
   display: block;
   margin: 1rem auto .3rem;
 }
-img + em, p > img ~ em { font-size: .88em; color: #57606a; }
+
+/* In den Fließtext eingebundene Bilder (umflossen, abwechselnd) */
+figure { margin: 0; }
+figure.img-right, figure.img-left { max-width: 45%; margin: .3rem 0 .9rem; }
+figure.img-right { float: right; margin-left: 1.4rem; }
+figure.img-left  { float: left;  margin-right: 1.4rem; }
+figure img { width: 100%; margin: 0; }
+figure.hero { float: none; max-width: 100%; margin: .4rem 0 1.4rem; }
+figcaption { font-size: .82em; color: #57606a; line-height: 1.35; margin-top: .3rem; }
+h2, h3 { clear: both; }
 
 /* Zitate / Merksatz-Kästen */
 blockquote {

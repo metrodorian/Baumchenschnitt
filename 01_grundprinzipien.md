@@ -28,8 +28,10 @@ So bleibt der Baum bei 4 m, sieht aber aus, als wäre er natürlich so gewachsen
 
 ## Schnittführung im Detail
 
-![Sauber überwallende Schnittwunde am Astring](images/schnitt_astring.jpg)
-*So sieht Erfolg aus: Eine am Astring gesetzte Wunde überwallt ringförmig von außen nach innen.*
+<figure class="img-right">
+  <img src="images/schnitt_astring.jpg" alt="Sauber überwallende Schnittwunde am Astring">
+  <figcaption>So sieht Erfolg aus: Eine am Astring gesetzte Wunde überwallt ringförmig von außen nach innen.</figcaption>
+</figure>
 
 - **Ganze Äste entfernen:** Auf **Astring** schneiden — das ist die kleine Wulst am Astansatz. Nicht bündig am Stamm schneiden und keinen Stummel stehen lassen. Der Astring enthält das Gewebe, das die Wunde verschließt (siehe Foto).
 - **Dicke Äste (> 5 cm):** Mit **Entlastungsschnitt** arbeiten: erst von unten ansägen, dann von oben weiter außen durchsägen, zuletzt den Stummel sauber am Astring nachschneiden. Sonst reißt die Rinde ein.

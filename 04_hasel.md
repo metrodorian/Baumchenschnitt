@@ -1,7 +1,9 @@
 # 04 — Hasel (Corylus avellana)
 
-![Ausgewachsene Hasel in natürlicher Form](images/hasel_habitus.jpg)
-*Die Hasel in Naturform: ein dichter Großstrauch — mit Stammauswahl wird daraus ein eleganter Schirm.*
+<figure class="img-right">
+  <img src="images/hasel_habitus.jpg" alt="Ausgewachsene Hasel in natürlicher Form">
+  <figcaption>Die Hasel in Naturform: ein dichter Großstrauch — mit Stammauswahl wird daraus ein eleganter Schirm.</figcaption>
+</figure>
 
 ## Steckbrief
 
@@ -13,8 +15,10 @@
 
 Anders als Kirsche und Ahorn wächst die Hasel nicht als Baum mit Krone, sondern als ständig sich erneuernder Stämmebusch. Die Pflege besteht deshalb weniger aus Kronenschnitt und mehr aus **Stammmanagement**: Du wählst aus, welche Ruten bleiben dürfen, und entfernst den Rest an der Basis.
 
-![Auf den Stock gesetzte Hasel mit fächerförmigem Stockausschlag](images/hasel_stockausschlag.jpg)
-*Der Stämmefächer einer regelmäßig geschnittenen Hasel — aus diesem Vorrat wählst du die 5–7 schönsten.*
+<figure class="img-left">
+  <img src="images/hasel_stockausschlag.jpg" alt="Auf den Stock gesetzte Hasel mit fächerförmigem Stockausschlag">
+  <figcaption>Der Stämmefächer einer regelmäßig geschnittenen Hasel — aus diesem Vorrat wählst du die 5–7 schönsten.</figcaption>
+</figure>
 
 Das passt perfekt zur japanischen Schirm-Ästhetik: Eine Hasel mit **5–7 ausgewählten, leicht nach außen geneigten Stämmen** und einem freigestellten Blätterdach darüber sieht aus wie eine mehrstämmige *Zelkova* aus dem japanischen Garten — luftig, elegant, mit sichtbarem „Stämmefächer".
 
@@ -28,8 +32,10 @@ Das passt perfekt zur japanischen Schirm-Ästhetik: Eine Hasel mit **5–7 ausge
 
 ### Jährliche Erhaltung
 
-![Junge Bodentriebe einer Hasel](images/wasserschosser_hasel.jpg)
-*So sieht der jährliche Gegner aus: junge Bodentriebe — konsequent entfernen, sonst wird der Schirm zum Dickicht.*
+<figure class="img-right">
+  <img src="images/wasserschosser_hasel.jpg" alt="Junge Bodentriebe einer Hasel">
+  <figcaption>So sieht der jährliche Gegner aus: junge Bodentriebe — konsequent entfernen, sonst wird der Schirm zum Dickicht.</figcaption>
+</figure>
 
 - **Winter:** Neue Bodentriebe konsequent entfernen — das ist 80 % der Haselpflege! 1–2 besonders schöne Jungruten kannst du als „Nachwuchs" stehen lassen, um alle paar Jahre einen alten Stamm zu ersetzen.
 - **Sommer (Juni):** Dach in Form bringen — Übersteher ableiten, das Laubdach von unten freistellen, Wolkenform modellieren (→ [Kapitel 02](02_japanische_schnittkunst.md)).
