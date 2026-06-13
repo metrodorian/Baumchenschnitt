@@ -45,6 +45,12 @@ Der Weißdorn ist von unseren vier Arten der beste Kandidat für echte japanisch
 3. Gerüstäste auswählen; beim Weißdorn dürfen es ruhig knorrig-bizarre sein — genau das gibt den gealterten Niwaki-Charakter.
 
 ### Jährliche Erhaltung
+
+<figure class="img-right">
+  <img src="images/weissdorn_bluete.jpg" alt="Weißdornblüten aus der Nähe">
+  <figcaption>Die weiße Blüte im Mai ist das Startsignal: Sobald sie verblüht ist, kommt im Juni der Hauptformschnitt.</figcaption>
+</figure>
+
 - **Juni (nach der Blüte): Hauptformschnitt.** Der Weißdorn verträgt als einziger unserer vier auch die **Handheckenschere** für die Feinform der Laubpolster — die kleinen Blätter verzeihen es. Wer es ganz sauber will, schneidet trotzdem mit der Bypass-Schere Trieb für Trieb.
 - **August: leichter Korrekturdurchgang** für die Nachtriebe.
 - **Winter (bei Bedarf):** Strukturkorrekturen, ganze Störäste raus. Das verträgt der Weißdorn problemlos — nur eben mit Blütenverlust an den betroffenen Partien.

@@ -52,4 +52,5 @@ Die beiden Weißdorn-Fotos `weissdorn_eigen_*` sind eigene Aufnahmen aus dem Gar
 | hasel_stockausschlag.jpg | David Hawgood | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Coppiced_hazel_in_Piddington_Wood_-_geograph.org.uk_-_182545.jpg) |
 | wasserschosser_hasel.jpg | Rasbak | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corylus_avellana_water_sprouts_(01).jpg) |
 | ahorn_portland.jpg | Jeremy Reding | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Portland_Japanese_Garden_maple.jpg) |
+| weissdorn_bluete.jpg | Ввласенко | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Blooming_hawthorn_(Crataegus_monogyna).jpg) |
 | weissdorn_baum.jpg | Trish Steel | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hawthorn_(Crataegus_monogyna),_Bishopstone_-_geograph.org.uk_-_976441.jpg) |
