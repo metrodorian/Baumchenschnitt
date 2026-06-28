@@ -13,7 +13,7 @@
 
 ## Die Kiefer ist *der* Niwaki-Baum
 
-Neben dem Ahorn ist die Kiefer (**Matsu**, 松) die wichtigste Gestalt der japanischen Gartenkunst — und das Vorbild, an dem fast alle Niwaki-Techniken aus [Kapitel 2](02_japanische_schnittkunst.md) entwickelt wurden: Etagenform (*dan-zukuri*), Laubpolster („Wolken"), waagerecht erzogene Äste, gealterter Habitus.
+Neben dem Ahorn ist die Kiefer (**Matsu**, 松) die wichtigste Gestalt der japanischen Gartenkunst — und das Vorbild, an dem fast alle Niwaki-Techniken aus [Kapitel 2](02_japanische_schnittkunst.md) entwickelt wurden: Etagenform (*dan-shitate*), Laubpolster („Wolken", *tamachirashi*), waagerecht erzogene Äste, gealterter Habitus.
 
 <figure class="img-left">
   <img src="images/kiefer_natur_meer.jpg" alt="Natürlich gewachsene Kiefer mit lockeren Etagen über dem Meer">

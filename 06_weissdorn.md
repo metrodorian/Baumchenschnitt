@@ -23,7 +23,7 @@ Der Weißdorn ist unter den Laubgehölzen des Gartens der beste Kandidat für ec
 **Zwei Gestaltungswege:**
 
 1. **Schirmdach (empfohlen fürs Blätterdach):** Stamm freistellen, oben ein flaches, dichtes Laubdach — wie ein grüner Pilz oder eine Dach-Platane, nur natürlicher in der Linie.
-2. **Wolkenbaum (Tamamono):** 3–5 Hauptäste, an deren Enden du runde Laubkissen modellierst — der klassische „Cloud-Pruning"-Look.
+2. **Wolkenbaum (Tamachirashi):** 3–5 Hauptäste, an deren Enden du runde Laubkissen modellierst — der klassische „Cloud-Pruning"-Look.
 
 ## Besonderheiten
 
