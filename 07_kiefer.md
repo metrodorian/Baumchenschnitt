@@ -1,8 +1,8 @@
 # 7 Kiefer (Pinus)
 
 <figure class="hero">
-  <img src="images/kiefer_polster_bonsai.jpg" alt="Geformte Kiefer mit klar getrennten Laubpolstern über sichtbarem Stamm">
-  <figcaption>Die Zielstruktur in Reinform: klar getrennte Laubpolster (Etagen) über sichtbarem Stamm. Hier als Bonsai gezeigt — am Gartenbaum gilt dasselbe Prinzip, nur größer.</figcaption>
+  <img src="images/kiefer_polster_bonsai.jpg" alt="Geformte Kiefer mit klar getrennten Nadelpolstern über sichtbarem Stamm">
+  <figcaption>Die Zielstruktur in Reinform: klar getrennte Nadelpolster (Etagen) über sichtbarem Stamm. Hier als Bonsai gezeigt — am Gartenbaum gilt dasselbe Prinzip, nur größer.</figcaption>
 </figure>
 
 ## Steckbrief
@@ -13,7 +13,7 @@
 
 ## Die Kiefer ist *der* Niwaki-Baum
 
-Neben dem Ahorn ist die Kiefer (**Matsu**, 松) die wichtigste Gestalt der japanischen Gartenkunst — und das Vorbild, an dem fast alle Niwaki-Techniken aus [Kapitel 2](02_japanische_schnittkunst.md) entwickelt wurden: Etagenform (*dan-shitate*), Laubpolster („Wolken", *tamachirashi*), waagerecht erzogene Äste, gealterter Habitus.
+Neben dem Ahorn ist die Kiefer (**Matsu**, 松) die wichtigste Gestalt der japanischen Gartenkunst — und das Vorbild, an dem fast alle Niwaki-Techniken aus [Kapitel 2](02_japanische_schnittkunst.md) entwickelt wurden: Etagenform (*dan-shitate*), Nadelpolster („Wolken", *tamachirashi*), waagerecht erzogene Äste, gealterter Habitus.
 
 <figure class="img-left">
   <img src="images/kiefer_natur_meer.jpg" alt="Natürlich gewachsene Kiefer mit lockeren Etagen über dem Meer">
@@ -25,6 +25,15 @@ Der entscheidende Unterschied zu deinen anderen Bäumen: Die Kiefer wird **nicht
 ## Von Setzlingen an aufbauen
 
 Genau der richtige Weg: Eine Kiefer von klein auf zu erziehen ist viel dankbarer, als später eine große umzuformen. Plane in Ruhe — bis zur fertigen 4-m-Etagenkiefer vergehen gut und gern **10–20 Jahre**. Das ist kein Makel, sondern Niwaki: der Weg ist das Ziel.
+
+### Wann den Setzling pflanzen?
+
+Am besten im **Frühherbst (September/Oktober)** oder im **Frühjahr (April/Mai)** — beide Male ist der Boden frostfrei und feucht, und die Wurzeln wachsen vor dem nächsten Stress noch an. Konkret für die **Bergkiefer (*Pinus mugo*)**, die du als robusten, von Natur aus kleinen Kandidaten gut nehmen kannst:
+
+- **Container-Ware (im Topf gezogen)** lässt sich die ganze frostfreie Saison über pflanzen; ideal ist der Frühherbst, weil der warme Boden die Wurzeln noch einwurzeln lässt, bevor der Winter kommt.
+- **Wurzelnackte oder Ballenware** nur im Frühjahr setzen — dann hat die Kiefer die ganze Vegetationszeit zum Anwachsen.
+- **Meiden:** Hochsommer (Hitze und Trockenheit) und gefrorener Boden im Winter.
+- Nach dem Pflanzen die ersten ein bis zwei Jahre bei Trockenheit **wässern** — gut eingewurzelt ist die Bergkiefer danach extrem genügsam.
 
 ### Jahre 1–3: wachsen lassen und Stamm wählen
 - Setzling kräftig wachsen lassen, **noch nicht formieren**. Erst muss Wurzel und Stamm Substanz bekommen.
@@ -43,12 +52,13 @@ Genau der richtige Weg: Eine Kiefer von klein auf zu erziehen ist viel dankbarer
 
 ## Die zwei Kiefern-Techniken
 
+### 1. Kerzenschnitt (Midori-tsumi) — Mai/Juni
+
 <figure class="img-right">
   <img src="images/kiefer_kerzen.jpg" alt="Junge Kiefern-Kerzen im Frühjahr, bevor die Nadeln sich strecken">
   <figcaption>Die „Kerzen": gestauchte Frühjahrstriebe, bevor die Nadeln sich öffnen. Hier setzt der Kerzenschnitt an.</figcaption>
 </figure>
 
-### 1. Kerzenschnitt (Midori-tsumi) — Mai/Juni
 Im Frühjahr schiebt die Kiefer ihre neuen Triebe als „Kerzen". Solange sie **weich** sind und die Nadeln sich noch nicht geöffnet haben, bestimmst du mit den **Fingern** (nicht der Schere — Metall bräunt die Schnittstellen) das Wachstum:
 - Kerze **ganz ausbrechen** → kein Längenwachstum an dieser Stelle, die Kiefer bleibt kompakt.
 - Kerze **zur Hälfte oder zu einem Drittel abknipsen** → gebremstes, dichteres Wachstum.
