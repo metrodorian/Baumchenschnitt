@@ -1,21 +1,21 @@
-# 7 Jahreskalender: Wann kommt wer dran?
+# 8 Jahreskalender: Wann kommt wer dran?
 
 ## Übersicht
 
-| Monat | Wildkirsche | Hasel | Ahorn | Weißdorn |
-|---|---|---|---|---|
-| Jan | — | ✅ Stammauswahl, Bodentriebe, Stock | — | (✂️ Struktur, kostet Blüte) |
-| Feb | — | ✅ wie Jan (bis 28.2. auch radikal) | ❌ Saftdruck beginnt | (✂️ wie Jan, bis 28.2.) |
-| Mär | — | nur leicht (Brutzeit beachten) | ❌ Saftdruck | ❌ Brutzeit prüfen |
-| Apr | — (Blüte 🌸) | — | ❌ Saftdruck | — (Knospen) |
-| Mai | — | — | ❌ Saftdruck | — (Blüte 🌼) |
-| **Jun** | (✂️ leicht möglich) | ✅ **Dach formen** | ✅ **Pinzieren** (nur weiches Grün) | ✅ **Hauptformschnitt nach Blüte** |
-| **Jul** | ✅ **Hauptschnitt** (nach Ernte) | ✂️ Korrekturen | ⚠️ nur pinzieren (Holz blutet noch) | ✂️ Korrekturen |
-| **Aug** | ✅ Hauptschnitt-Fenster | ✂️ Korrekturen | ✅ **Holzschnitt: Struktur, Höhe** | ✅ zweiter Durchgang |
-| Sep | ✅ Hauptschnitt-Fenster | — | ✅ **Holzschnitt** (Saftdruck minimal) | — |
-| Okt | ❌ | ✅ Wintersaison beginnt | ✂️ Struktur (nach Laubfall) | ✂️ Struktur möglich |
-| Nov | ❌ | ✅ | ✂️ Struktur | ✂️ Struktur |
-| Dez | ❌ | ✅ | ✂️ Struktur (letzte Chance) | ✂️ Struktur |
+| Monat | Wildkirsche | Hasel | Ahorn | Weißdorn | Kiefer |
+|---|---|---|---|---|---|
+| Jan | — | ✅ Stammauswahl, Bodentriebe, Stock | — | (✂️ Struktur, kostet Blüte) | — |
+| Feb | — | ✅ wie Jan (bis 28.2. auch radikal) | ❌ Saftdruck beginnt | (✂️ wie Jan, bis 28.2.) | — |
+| Mär | — | nur leicht (Brutzeit beachten) | ❌ Saftdruck | ❌ Brutzeit prüfen | — |
+| Apr | — (Blüte 🌸) | — | ❌ Saftdruck | — (Knospen) | — (Kerzen schwellen) |
+| Mai | — | — | ❌ Saftdruck | — (Blüte 🌼) | ✅ **Kerzenschnitt** (Midori-tsumi) |
+| **Jun** | (✂️ leicht möglich) | ✅ **Dach formen** | ✅ **Pinzieren** (nur weiches Grün) | ✅ **Hauptformschnitt nach Blüte** | ✅ Kerzenschnitt-Fenster |
+| **Jul** | ✅ **Hauptschnitt** (nach Ernte) | ✂️ Korrekturen | ⚠️ nur pinzieren (Holz blutet noch) | ✂️ Korrekturen | ✂️ Etagen binden, Bindungen prüfen |
+| **Aug** | ✅ Hauptschnitt-Fenster | ✂️ Korrekturen | ✅ **Holzschnitt: Struktur, Höhe** | ✅ zweiter Durchgang | ✂️ Etagen binden |
+| Sep | ✅ Hauptschnitt-Fenster | — | ✅ **Holzschnitt** (Saftdruck minimal) | — | — |
+| Okt | ❌ | ✅ Wintersaison beginnt | ✂️ Struktur (nach Laubfall) | ✂️ Struktur möglich | ✅ **Nadeln zupfen** (Momiage) |
+| Nov | ❌ | ✅ | ✂️ Struktur | ✂️ Struktur | ✅ Nadeln zupfen |
+| Dez | ❌ | ✅ | ✂️ Struktur (letzte Chance) | ✂️ Struktur | — |
 
 **Legende:** ✅ = ideales Fenster · ✂️ = möglich/leichte Eingriffe · — = nichts nötig · ❌ = nicht schneiden
 
@@ -29,7 +29,8 @@ Der erste Pflegetermin (nach der Weißdornblüte):
 2. **Ahorn:** weiche Neutriebe pinzieren. Holzige Strukturschnitte aber **noch nicht** — der Ahorn blutet im Frühsommer; die heben wir uns für den Spätsommer auf.
 3. **Hasel:** Dach formen, Übersteher ableiten.
 4. **Kirsche:** nur anschauen und planen; leichte Korrekturen erlaubt.
-5. Alle: Wasserschosser ausreißen, Bindungen/Formierungen kontrollieren.
+5. **Kiefer:** Kerzen mit den Fingern ausbrechen oder kürzen (Midori-tsumi) — die jungen Triebe sind jetzt weich.
+6. Alle: Wasserschosser ausreißen, Bindungen/Formierungen kontrollieren.
 
 ⚠️ Vorher bei allen Bäumen auf besetzte Nester prüfen — besonders im Weißdorn.
 
@@ -39,10 +40,14 @@ Der erste Pflegetermin (nach der Weißdornblüte):
 3. **Weißdorn:** kurzer zweiter Durchgang für die Nachtriebe.
 4. Höhenkontrolle bei allen: nichts bleibt über der 4-m-Linie stehen.
 
+### 🍂 Im Herbst (Okt/Nov) — der Kiefern-Termin
+- **Kiefer:** Nadeln zupfen (Momiage) — alte Nadeln raus, Polster auslichten, Wuchs ausgleichen. Der einzige Pflichttermin, der allein der Kiefer gehört.
+
 ### ❄️ Optional: ein Wintertermin (Nov–Feb) — „Der Strukturtag"
 - **Hasel:** Bodentriebe raus, ggf. ältesten Stamm ersetzen (Rotationsverjüngung).
 - **Ahorn (nur bis Dez, nach Laubfall!) & Weißdorn:** größere Strukturkorrekturen, falls nötig.
 - **Kirsche: Finger weg.**
+- **Kiefer: nie ins kahle Holz sägen** — sie treibt daraus nicht nach.
 
 ## Rechtliches & Rücksicht (Deutschland)
 
@@ -58,4 +63,4 @@ Der erste Pflegetermin (nach der Weißdornblüte):
 
 > **Wenig, aber jedes Jahr** (das Niwaki-Prinzip).
 
-> **Kirsche nur im Sommer, Ahorn nie im Frühjahr, Hasel von unten, Weißdorn mit Handschuhen.**
+> **Kirsche nur im Sommer, Ahorn nie im Frühjahr, Hasel von unten, Weißdorn mit Handschuhen, Kiefer nur mit den Fingern.**

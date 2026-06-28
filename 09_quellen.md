@@ -42,6 +42,9 @@ Die beiden Weißdorn-Fotos `weissdorn_eigen_*` sind eigene Aufnahmen aus dem Gar
 | weissdorn_eigen_bluete.jpg | eigene Aufnahme | — | privat |
 | niwaki_dragon.jpg | Parc Oriental de Maulévrier | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:If_dragon_Parc_Oriental.jpg) |
 | kiefer_niwaki_tokyo.jpg | Jetoney | gemeinfrei | [Commons](https://commons.wikimedia.org/wiki/File:Japanese_Black_Pine,_National_Garden,_Tokyo.jpg) |
+| kiefer_polster_bonsai.jpg | Fritzmann2002 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pinus_parviflora_bonsai_Kyoto.jpg) |
+| kiefer_natur_meer.jpg | Nikita (RF) | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pinus_thunbergii_Izu_Oshima.jpg) |
+| kiefer_kerzen.jpg | Famartin | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:2016-05-03_18_48_31_White_Pine_candles_(new_growth)_expanding_in_the_spring_along_Terrace_Boulevard_in_Ewing,_New_Jersey.jpg) |
 | karikomi_okayama.jpg | Paolo | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Karikomi_Okayama_jardin.jpg) |
 | wolkenschnitt_eibe.jpg | pam fray | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cloud_pruning_of_yew_hedges,_Doddington_Place_Gardens_-_geograph.org.uk_-_6855489.jpg) |
 | daisugi_kibune.jpg | Indiana jo | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:New_breed_Dai_Sugi_02.jpg) |

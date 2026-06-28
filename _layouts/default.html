@@ -162,8 +162,8 @@
       <main id="content" class="main-content" role="main">
         {{ content }}
 
-        {%- assign chapters = "01_grundprinzipien,02_japanische_schnittkunst,03_wildkirsche,04_hasel,05_ahorn,06_weissdorn,07_jahreskalender,08_quellen" | split: "," -%}
-        {%- assign titles = "Grundprinzipien,Japanische Schnittkunst (Niwaki),Wildkirsche,Hasel,Ahorn,Weißdorn,Jahreskalender,Quellen" | split: "," -%}
+        {%- assign chapters = "01_grundprinzipien,02_japanische_schnittkunst,03_wildkirsche,04_hasel,05_ahorn,06_weissdorn,07_kiefer,08_jahreskalender,09_quellen" | split: "," -%}
+        {%- assign titles = "Grundprinzipien,Japanische Schnittkunst (Niwaki),Wildkirsche,Hasel,Ahorn,Weißdorn,Kiefer,Jahreskalender,Quellen" | split: "," -%}
         {%- assign current = page.name | remove: ".md" -%}
         {%- assign curpos = -1 -%}
         {%- for c in chapters -%}{%- if c == current -%}{%- assign curpos = forloop.index0 -%}{%- endif -%}{%- endfor -%}
@@ -180,7 +180,7 @@
               <nav class="chapter-menu">
                 <a href="{{ '/' | relative_url }}"{% if curpos == -1 %} class="current"{% endif %}>Startseite &amp; Inhalt</a>
                 {%- for c in chapters -%}
-                  <a href="{{ c | append: '.html' | relative_url }}"{% if forloop.index0 == curpos %} class="current"{% endif %}>{% unless c == "08_quellen" %}{{ forloop.index }}. {% endunless %}{{ titles[forloop.index0] }}</a>
+                  <a href="{{ c | append: '.html' | relative_url }}"{% if forloop.index0 == curpos %} class="current"{% endif %}>{% unless c == "09_quellen" %}{{ forloop.index }}. {% endunless %}{{ titles[forloop.index0] }}</a>
                 {%- endfor -%}
               </nav>
             </details>

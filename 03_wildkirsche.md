@@ -9,7 +9,7 @@
 
 - Natürliche Höhe: **15–25 m** — der ehrgeizigste Kandidat im Garten.
 - Wuchs: kräftiger Mitteltrieb, ausgeprägte Apikaldominanz, schnellwüchsig in der Jugend.
-- Schnittverträglichkeit: **eingeschränkt.** Kirschen verzeihen Fehler am schlechtesten von unseren vier Arten.
+- Schnittverträglichkeit: **eingeschränkt.** Unter den Laubbäumen verzeihen Kirschen Fehler am schlechtesten (nur die Kiefer ist auf ihre eigene Art noch heikler).
 
 ## Die goldene Regel: Nur im Sommer schneiden
 

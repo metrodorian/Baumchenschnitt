@@ -9,7 +9,7 @@
 
 ## Worum es geht
 
-Im Garten stehen Wildkirschen, Haseln, Ahorn und ein Weißdorn. Alle vier wollen von Natur aus deutlich höher als 4 m werden. Dieser Ratgeber zeigt, wie du sie mit regelmäßigem, durchdachtem Schnitt klein hältst — und zwar so, dass sie nicht wie verstümmelte Straßenbäume aussehen, sondern wie bewusst geformte Gartenbäume mit luftigem, schirmförmigem Blätterdach.
+Im Garten stehen Wildkirschen, Haseln, Ahorn und ein Weißdorn — dazu kommt eine Kiefer, die von Setzlingen an erzogen wird. Sie alle wollen von Natur aus deutlich höher als 4 m werden. Dieser Ratgeber zeigt, wie du sie mit regelmäßigem, durchdachtem Schnitt klein hältst — und zwar so, dass sie nicht wie verstümmelte Straßenbäume aussehen, sondern wie bewusst geformte Gartenbäume mit luftigem, schirmförmigem Blätterdach.
 
 ## Die Kapitel
 
@@ -21,8 +21,9 @@ Im Garten stehen Wildkirschen, Haseln, Ahorn und ein Weißdorn. Alle vier wollen
 | [4 Hasel](04_hasel.md) | Der gutmütigste: Auslichten, auf den Stock setzen, Schirmform |
 | [5 Ahorn](05_ahorn.md) | Momiji-Vorbild aus Japan, Saftdruck beachten, feiner Schnitt |
 | [6 Weißdorn](06_weissdorn.md) | Extrem schnittverträglich, Dachform, Blüte erhalten |
-| [7 Jahreskalender](07_jahreskalender.md) | Wann welcher Baum drankommt — Übersicht fürs ganze Jahr |
-| [Quellen](08_quellen.md) | Fachliche Belege, Niwaki-Literatur und Bildnachweis |
+| [7 Kiefer](07_kiefer.md) | Der klassische Niwaki-Baum: von Setzlingen an, Kerzenschnitt, Nadeln zupfen |
+| [8 Jahreskalender](08_jahreskalender.md) | Wann welcher Baum drankommt — Übersicht fürs ganze Jahr |
+| [Quellen](09_quellen.md) | Fachliche Belege, Niwaki-Literatur und Bildnachweis |
 
 ## Die Kurzfassung (für Eilige)
 

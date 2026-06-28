@@ -77,10 +77,11 @@ Japan kennt auch radikale Formen wie **Daisugi**: Zedern werden wie Kopfweiden b
 | **Spätwinter (nicht bei Kirsche/Ahorn!)** | Strukturschnitt: ganze Äste entnehmen, Gerüst korrigieren |
 | **Laufend** | Wasserschosser ausreißen, Bindungen kontrollieren |
 
-## Übertragung auf unsere vier Baumarten
+## Übertragung auf unsere fünf Baumarten
 
 | Baum | Niwaki-Eignung | Klassische japanische Entsprechung |
 |---|---|---|
+| Kiefer | ★★★★★ | *Matsu* — DER Niwaki-Baum schlechthin; Etagenform und Laubpolster über Kerzenschnitt (→ [Kapitel 7](07_kiefer.md)) |
 | Ahorn | ★★★★★ | *Momiji* (Fächerahorn) — DER japanische Garten-Laubbaum; Techniken 1:1 übertragbar |
 | Weißdorn | ★★★★★ | Verhält sich wie *Ilex crenata* / Hainbuche im Formschnitt — ideal für Wolken und Dachform |
 | Hasel | ★★★★ | Eher „Naturform mit Disziplin": mehrstämmiger Schirm, wie japanische *Zelkova*-Schirmerziehung |
@@ -92,4 +93,4 @@ Details pro Baum in den Kapiteln [03](03_wildkirsche.md)–[06](06_weissdorn.md)
 
 > **Wenig, aber jedes Jahr.**
 
-Ein Niwaki wird nie „mal eben in Form gebracht" — er wird **gelesen und begleitet**. Zwei kurze Durchgänge pro Jahr halten jeden der vier Bäume mühelos auf 4 m. Wer drei Jahre aussetzt und dann radikal sägt, bekommt genau die hässliche Besenreaktion, die er vermeiden wollte.
+Ein Niwaki wird nie „mal eben in Form gebracht" — er wird **gelesen und begleitet**. Zwei kurze Durchgänge pro Jahr halten jeden der fünf Bäume mühelos auf 4 m. Wer drei Jahre aussetzt und dann radikal sägt, bekommt genau die hässliche Besenreaktion, die er vermeiden wollte.

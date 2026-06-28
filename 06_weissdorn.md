@@ -18,7 +18,7 @@
   <figcaption>Dieselben Bäume im Mai: Die Blüte sitzt am mehrjährigen Holz, der freigestellte Stammbereich darunter bleibt offen.</figcaption>
 </figure>
 
-Der Weißdorn ist von unseren vier Arten der beste Kandidat für echte japanische Formarbeit. Was japanische Gärtner mit *Ilex crenata* (Japan-Stechpalme) als Wolkenbaum machen, gelingt mit Weißdorn genauso: dichtes, kleinblättriges Laub, das auf Schnitt mit feiner Verzweigung reagiert und geschnittene Formen sauber hält.
+Der Weißdorn ist unter den Laubgehölzen des Gartens der beste Kandidat für echte japanische Formarbeit (die Kiefer spielt als Nadelbaum in einer eigenen Liga, → [Kapitel 7](07_kiefer.md)). Was japanische Gärtner mit *Ilex crenata* (Japan-Stechpalme) als Wolkenbaum machen, gelingt mit Weißdorn genauso: dichtes, kleinblättriges Laub, das auf Schnitt mit feiner Verzweigung reagiert und geschnittene Formen sauber hält.
 
 **Zwei Gestaltungswege:**
 
@@ -51,7 +51,7 @@ Der Weißdorn ist von unseren vier Arten der beste Kandidat für echte japanisch
   <figcaption>Die weiße Blüte im Mai ist das Startsignal: Sobald sie verblüht ist, kommt im Juni der Hauptformschnitt.</figcaption>
 </figure>
 
-- **Juni (nach der Blüte): Hauptformschnitt.** Der Weißdorn verträgt als einziger unserer vier auch die **Handheckenschere** für die Feinform der Laubpolster — die kleinen Blätter verzeihen es. Wer es ganz sauber will, schneidet trotzdem mit der Bypass-Schere Trieb für Trieb.
+- **Juni (nach der Blüte): Hauptformschnitt.** Der Weißdorn verträgt als einziger unserer fünf Bäume auch die **Handheckenschere** für die Feinform der Laubpolster — die kleinen Blätter verzeihen es. Wer es ganz sauber will, schneidet trotzdem mit der Bypass-Schere Trieb für Trieb.
 - **August: leichter Korrekturdurchgang** für die Nachtriebe.
 - **Winter (bei Bedarf):** Strukturkorrekturen, ganze Störäste raus. Das verträgt der Weißdorn problemlos — nur eben mit Blütenverlust an den betroffenen Partien.
 - Höhe: Übersteher wie immer **ableiten** statt kappen. Der Weißdorn würde Kappung verzeihen, aber Ableiten sieht besser aus.
